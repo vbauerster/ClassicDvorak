@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.2.166 on 2017-11-13 at 11:18 (GMT+3)-->
-<keyboard group="126" id="-26966" name="Dvorak" maxout="1">
+<!--Last edited by Ukelele version 3.2.2.166 on 2017-11-13 at 11:44 (GMT+3)-->
+<keyboard group="126" id="-26966" name="ClassicDvorak" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="a14" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="1fc" modifiers="f4"/>
