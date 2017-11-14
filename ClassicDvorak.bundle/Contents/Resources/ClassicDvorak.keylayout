@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.2.166 on 2017-11-13 at 11:44 (GMT+3)-->
+<!--Last edited by Ukelele version 3.2.2.166 on 2017-11-13 at 12:39 (GMT+3)-->
 <keyboard group="126" id="-26966" name="ClassicDvorak" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="a14" modifiers="f4"/>
@@ -125,7 +125,7 @@
 			<key code="15" output="p"/>
 			<key code="16" output="f"/>
 			<key code="17" action="14"/>
-			<key code="18" output="/"/>
+			<key code="18" output="="/>
 			<key code="19" output="7"/>
 			<key code="20" output="5"/>
 			<key code="21" output="3"/>
@@ -140,7 +140,7 @@
 			<key code="30" output="]"/>
 			<key code="31" output="r"/>
 			<key code="32" output="g"/>
-			<key code="33" output="="/>
+			<key code="33" output="/"/>
 			<key code="34" output="c"/>
 			<key code="35" output="l"/>
 			<key code="36" output="&#x000D;"/>
@@ -234,7 +234,7 @@
 			<key code="15" output="P"/>
 			<key code="16" output="F"/>
 			<key code="17" action="13"/>
-			<key code="18" output="?"/>
+			<key code="18" output="+"/>
 			<key code="19" output="&#x0026;"/>
 			<key code="20" output="%"/>
 			<key code="21" output="#"/>
@@ -249,7 +249,7 @@
 			<key code="30" output="}"/>
 			<key code="31" output="R"/>
 			<key code="32" output="G"/>
-			<key code="33" output="+"/>
+			<key code="33" output="?"/>
 			<key code="34" output="C"/>
 			<key code="35" output="L"/>
 			<key code="36" output="&#x000D;"/>
@@ -343,7 +343,7 @@
 			<key code="15" output="P"/>
 			<key code="16" output="F"/>
 			<key code="17" action="13"/>
-			<key code="18" output="/"/>
+			<key code="18" output="="/>
 			<key code="19" output="7"/>
 			<key code="20" output="5"/>
 			<key code="21" output="3"/>
@@ -358,7 +358,7 @@
 			<key code="30" output="]"/>
 			<key code="31" output="R"/>
 			<key code="32" output="G"/>
-			<key code="33" output="="/>
+			<key code="33" output="/"/>
 			<key code="34" output="C"/>
 			<key code="35" output="L"/>
 			<key code="36" output="&#x000D;"/>
@@ -452,7 +452,7 @@
 			<key code="15" output="π"/>
 			<key code="16" output="ƒ"/>
 			<key code="17" output="¥"/>
-			<key code="18" output="÷"/>
+			<key code="18" output="≠"/>
 			<key code="19" output="¶"/>
 			<key code="20" output="∞"/>
 			<key code="21" output="£"/>
@@ -467,7 +467,7 @@
 			<key code="30" output="‘"/>
 			<key code="31" output="®"/>
 			<key code="32" output="©"/>
-			<key code="33" output="≠"/>
+			<key code="33" output="÷"/>
 			<key code="34" output="ç"/>
 			<key code="35" output="¬"/>
 			<key code="36" output="&#x000D;"/>
@@ -561,7 +561,7 @@
 			<key code="15" output="∏"/>
 			<key code="16" output="Ï"/>
 			<key code="17" output="Á"/>
-			<key code="18" output="¿"/>
+			<key code="18" output="±"/>
 			<key code="19" output="‡"/>
 			<key code="20" output="ﬁ"/>
 			<key code="21" output="‹"/>
@@ -576,7 +576,7 @@
 			<key code="30" output="’"/>
 			<key code="31" output="‰"/>
 			<key code="32" output="˝"/>
-			<key code="33" output="±"/>
+			<key code="33" output="¿"/>
 			<key code="34" output="Ç"/>
 			<key code="35" output="Ò"/>
 			<key code="36" output="&#x000D;"/>
@@ -670,7 +670,7 @@
 			<key code="15" output="∏"/>
 			<key code="16" output="Ï"/>
 			<key code="17" output="Á"/>
-			<key code="18" output="÷"/>
+			<key code="18" output="≠"/>
 			<key code="19" output="¶"/>
 			<key code="20" output="∞"/>
 			<key code="21" output="£"/>
@@ -685,7 +685,7 @@
 			<key code="30" output="‘"/>
 			<key code="31" output="®"/>
 			<key code="32" output="©"/>
-			<key code="33" output="≠"/>
+			<key code="33" output="÷"/>
 			<key code="34" output="Ç"/>
 			<key code="35" output="Ò"/>
 			<key code="36" output="&#x000D;"/>
@@ -779,7 +779,7 @@
 			<key code="15" output="π"/>
 			<key code="16" output="ƒ"/>
 			<key code="17" output="¥"/>
-			<key code="18" output="÷"/>
+			<key code="18" output="≠"/>
 			<key code="19" output="¶"/>
 			<key code="20" output="∞"/>
 			<key code="21" output="£"/>
@@ -794,7 +794,7 @@
 			<key code="30" output="‘"/>
 			<key code="31" output="®"/>
 			<key code="32" output="©"/>
-			<key code="33" output="≠"/>
+			<key code="33" output="÷"/>
 			<key code="34" output="ç"/>
 			<key code="35" output="¬"/>
 			<key code="36" output="&#x000D;"/>
@@ -888,7 +888,7 @@
 			<key code="15" output="&#x0010;"/>
 			<key code="16" output="&#x0006;"/>
 			<key code="17" output="&#x0019;"/>
-			<key code="18" output="/"/>
+			<key code="18" output="="/>
 			<key code="19" output="7"/>
 			<key code="20" output="5"/>
 			<key code="21" output="3"/>
@@ -903,7 +903,7 @@
 			<key code="30" output="&#x001D;"/>
 			<key code="31" output="&#x0012;"/>
 			<key code="32" output="&#x0007;"/>
-			<key code="33" output="="/>
+			<key code="33" output="/"/>
 			<key code="34" output="&#x0003;"/>
 			<key code="35" output="&#x000C;"/>
 			<key code="36" output="&#x000D;"/>
